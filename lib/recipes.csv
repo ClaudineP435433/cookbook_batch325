@@ -1,2 +1,10 @@
-Tarte aux Prunes,Plein de prunes
-Tarte,Plein de pommes
+name,description,prep_time,done,difficulty
+Tarte aux Prunes,Plein de prunes,,false,
+Tarte,Plein de pommes,,false,
+Mini Chocolate Fondants,"Ingredients : sugar, flour, dark chocolate, egg, butter. Preheat your oven to 210°C (410°F). In a saucepan, melt the chocolate and the butter together. Stir continuously until smooth and glossy. In a large mixing bowl, mix the eggs, the...",,false,
+Chocolate Religieuse,"Ingredients : sugar, flour, milk, dark chocolate, egg, butter, salt, water. For the choux pastry: In a large saucepan, bring the water to the boil with the butter and the salt. Then remove from the heat and pour the flour all at once in the...",,false,
+Tarte,Abricot,,false,
+Tarte,Prunes,45 min,false,
+Chocolate Mendiants,"Ingredients : nut, white chocolate, milk, hazelnut, dark chocolate, grated coconut. Melt each chocolate in its own bowl in a bain-marie. On a tray covered with baking paper, draw chocolate disks (about 2 inches large)....",25 min,false,
+Tarte,Bacon,14 min,false,Hard
+Chocolate Mendiants,"Ingredients : nut, white chocolate, milk, hazelnut, dark chocolate, grated coconut. Melt each chocolate in its own bowl in a bain-marie. On a tray covered with baking paper, draw chocolate disks (about 2 inches large)....",25 min,true, Very easy 

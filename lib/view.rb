@@ -3,7 +3,8 @@ class View
   def display(recipes)
     puts '------COOKBOOK------'
     recipes.each_with_index do |recipe, index|
-      puts "#{index + 1} - #{recipe.name} - #{recipe.description}"
+      done = recipe.done? ? '[X]' : '[ ]'
+      puts "#{index + 1} #{done} - #{recipe.name} - #{recipe.description} - #{recipe.prep_time} - #{recipe.difficulty}"
     end
   end
 
